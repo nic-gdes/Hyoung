@@ -1,0 +1,17 @@
+h1 {
+    color: #017951;
+}
+body {
+    text-align: left;
+    padding: auto;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+quote {
+    color: #F26722;
+}
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
